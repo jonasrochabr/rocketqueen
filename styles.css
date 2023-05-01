@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    width: 626px;
+    height: 486px;
+    margin: 64px auto;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    font-weight: 500px;
+    line-height: 40px;
+    color: #3F3D56;
+}
+
+span {
+    color: #EE24FF;
+}
+
+p {
+    color: #828282;
+    font-family: sans-serif;
+    margin-bottom: 32px;
+    line-height: 22px;
+    font-size: 15px;
+}
+
+.color {
+    color: #3F3D56;
+}
+
+hr {
+    width: 391px;
+    border: #ECEFF2 1px solid ;
+}
+
+hr:hover {
+    scale: 1.2;
+}
+
+footer {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+}
+
+h5:hover {
+ color: #EE24FF;
+ cursor: pointer;
+ scale: 1.1;
+}
+
+.wave {
+    position: absolute;
+    bottom: 16px;
+    right: 730px;
+
+}
